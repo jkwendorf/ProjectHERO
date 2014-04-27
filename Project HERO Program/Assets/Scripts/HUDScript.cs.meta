@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 88bf76f1e86cd4448b59e83c3b5a129d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - emptyTex: {instanceID: 0}
+  - fullTex: {instanceID: 0}
+  - playerIcon: {fileID: 2800000, guid: 762f8e8a2160e1244974dac61e7049ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

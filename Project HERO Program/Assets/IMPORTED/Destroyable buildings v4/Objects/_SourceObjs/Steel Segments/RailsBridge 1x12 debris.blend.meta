@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: 7354705be174344ba92039a395e4a299
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Plank1
+    100002: Plank2
+    100004: RailL
+    100006: RailR
+    100008: //RootNode
+    100010: sBeamL
+    100012: sBeamR
+    400000: Plank1
+    400002: Plank2
+    400004: RailL
+    400006: RailR
+    400008: //RootNode
+    400010: sBeamL
+    400012: sBeamR
+    2300000: Plank1
+    2300002: Plank2
+    2300004: RailL
+    2300006: RailR
+    2300008: sBeamL
+    2300010: sBeamR
+    3300000: Plank1
+    3300002: Plank2
+    3300004: RailL
+    3300006: RailR
+    3300008: sBeamL
+    3300010: sBeamR
+    4300000: sBeamR
+    4300002: Plank2
+    4300004: RailR
+    4300006: RailL
+    4300008: Plank1
+    4300010: sBeamL
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 7a3d1573f5d584684b46b51e93a2d346
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Construct
+    100002: Quarters
+    100004: SolarPanel
+    100006: //RootNode
+    100008: Windows
+    100010: _coll
+    400000: Construct
+    400002: Quarters
+    400004: SolarPanel
+    400006: //RootNode
+    400008: Windows
+    400010: _coll
+    2300000: Construct
+    2300002: Quarters
+    2300004: SolarPanel
+    2300006: Windows
+    2300008: _coll
+    3300000: Construct
+    3300002: Quarters
+    3300004: SolarPanel
+    3300006: Windows
+    3300008: _coll
+    4300000: Windows
+    4300002: Quarters
+    4300004: SolarPanel
+    4300006: Construct
+    4300008: _coll
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

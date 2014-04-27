@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 2724271cab4ad44e9ba7d29b1243c4bc
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: AntennaBroken
+    100002: AntennaDmg
+    100004: AntennaPlatform
+    100006: debris1
+    100008: debris2
+    100010: debris3
+    100012: debris4
+    100014: debris5
+    100016: debris6
+    100018: FuelTank
+    100020: //RootNode
+    100022: Leg1_dmg
+    100024: Leg2
+    100026: Leg3
+    100028: Leg4
+    100030: Leg5
+    100032: Valve
+    400000: AntennaBroken
+    400002: AntennaDmg
+    400004: AntennaPlatform
+    400006: debris1
+    400008: debris2
+    400010: debris3
+    400012: debris4
+    400014: debris5
+    400016: debris6
+    400018: FuelTank
+    400020: //RootNode
+    400022: Leg1_dmg
+    400024: Leg2
+    400026: Leg3
+    400028: Leg4
+    400030: Leg5
+    400032: Valve
+    2300000: AntennaBroken
+    2300002: AntennaDmg
+    2300004: AntennaPlatform
+    2300006: debris1
+    2300008: debris2
+    2300010: debris3
+    2300012: debris4
+    2300014: debris5
+    2300016: debris6
+    2300018: FuelTank
+    2300020: Leg1_dmg
+    2300022: Leg2
+    2300024: Leg3
+    2300026: Leg4
+    2300028: Leg5
+    2300030: Valve
+    3300000: AntennaBroken
+    3300002: AntennaDmg
+    3300004: AntennaPlatform
+    3300006: debris1
+    3300008: debris2
+    3300010: debris3
+    3300012: debris4
+    3300014: debris5
+    3300016: debris6
+    3300018: FuelTank
+    3300020: Leg1_dmg
+    3300022: Leg2
+    3300024: Leg3
+    3300026: Leg4
+    3300028: Leg5
+    3300030: Valve
+    4300000: AntennaBroken
+    4300002: AntennaDmg
+    4300004: Leg5
+    4300006: Leg4
+    4300008: Leg3
+    4300010: Leg2
+    4300012: Valve
+    4300014: debris5
+    4300016: debris4
+    4300018: debris3
+    4300020: debris2
+    4300022: debris1
+    4300024: Leg1_dmg
+    4300026: debris6
+    4300028: AntennaPlatform
+    4300030: FuelTank
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
